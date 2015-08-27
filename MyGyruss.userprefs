@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MyGyruss.cs">
+    <Files>
+      <File FileName="Assets\scripts\SpaceShip.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Studiendo\BockGame\GeilerBock\Assets\Scripts\GameLogic\HighscoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MyGyruss.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
