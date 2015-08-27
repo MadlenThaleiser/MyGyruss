@@ -11,33 +11,32 @@ wie Cube oder Capsule umgesetzt werden).
 
 Es stehen folgende Steuerungsmöglichkeiten zur Verfügung:
 
-- Bewegung nach links:
-              linke Pfeiltaste drücken
-              Klick mit der linken Maustaste und Bewegung der Maus nach links
-- Bewegung nach rechts:
-              recht Pfeiltaste drücken
-              Klick mit der linken Maustaste und Bewegung der Maus nach rechts
-- feuern:
-              Spacetaste drücken
-              Klick mit der linken Maustaste ohne Bewegung der Maus
+* Bewegung nach links:
+  * linke Pfeiltaste drücken 
+  * Klick mit der linken Maustaste und Bewegung der Maus nach links
+* Bewegung nach rechts:
+  * recht Pfeiltaste drücken
+  * Klick mit der linken Maustaste und Bewegung der Maus nach rechts
+* feuern:
+  * Spacetaste drücken
+  * Klick mit der linken Maustaste ohne Bewegung der Maus
               
 
 ##Status der Aufgaben
 
-- Verarbeitung der Spieler/User-Eingabe mittels UGB
-              umgesetzt
-                + innerhalb MyGruss.cs werden die Keymappings für Spacetaste, linke und rechte Pfeiltaste initialisiert
-                  und hinzugefügt zu GameInput
-                + innerhalb SpaceShip.cs in der Methode Input() werden die Touchbewegungen abgefangen und ausgewertet
+* Verarbeitung der Spieler/User-Eingabe mittels UGB
+  * umgesetzt
+  * innerhalb MyGruss.cs werden die Keymappings für Spacetaste, linke und rechte Pfeiltaste initialisiert                 und hinzugefügt zu GameInput
+  * innerhalb SpaceShip.cs in der Methode Input() werden die Touchbewegungen abgefangen und ausgewertet
                 
-- Generation von Objekten
-              teilweise umgesetzt
-                - keine Berücksichtigung von UGBObjectPool
-                - Feinde werden nicht auf ein Kreis erzeugt und bewegen sich dementsprechend nicht auf einer Kreislinie
+* Generation von Objekten
+  * teilweise umgesetzt
+  * keine Berücksichtigung von UGBObjectPool
+  * Feinde werden nicht auf ein Kreis erzeugt und bewegen sich dementsprechend nicht auf einer Kreislinie
                 
-- Highscore
-              teilweise umgesetzt
-                - beste Highscore wird mit Spielernamen gespeichert und angezeigt
+* Highscore
+  * teilweise umgesetzt
+  * beste Highscore wird mit Spielernamen gespeichert und angezeigt
                 
 ##Probleme
 
